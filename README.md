@@ -122,7 +122,8 @@ Además de tener el **CV actualizado**, tu **portfolio** es clave, es lo que te 
 ](https://medium.com/lasdesistemas/tips-para-prepararse-y-sentirse-cada-vez-m%C3%A1s-c%C3%B3modes-en-las-entrevistas-laborales-cb80876a5bbb)
 
 ## Importante
-- https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl
+
+- [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 
 ## Podcast recomendado
 
