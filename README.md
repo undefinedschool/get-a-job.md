@@ -170,3 +170,7 @@ Además de tener el **CV actualizado**, tu **portfolio** es clave, es lo que te 
 ## Podcast recomendado
 
 [DevRock Podcast](https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq), donde Jonatan Ariste habla de muchas cosas relacionadas a la búsqueda laboral, trabajo freelance, etc.
+
+## Más recursos (libros, páginas recomendadas, etc)
+
+[Repo con más recursos](https://github.com/elstr/twitch-chicasprog-recursos), de Chicas Programando
