@@ -61,7 +61,7 @@ Hacer muchos ejercicios, resolver problemas (ej: [Codewars](https://www.codewars
 
 ### Sobre los requerimientos de las ofertas laborales
 
-- Nunca necesitamos el 100% de los requerimientos listados, la mayoría de las veces alcanza con el 50% para aplicar
+- Nunca necesitamos el 100% de los requerimientos listados, **la mayoría de las veces alcanza con tener al menos el 50% para aplicar**
     - Ver https://twitter.com/MsPhiona/status/1210843601938370561
     - Ver https://twitter.com/SlaunchaMan/status/1260937695393656832
 - Todos sufrimos del síndrome del impostor en algún punto, no te desanimes por eso
